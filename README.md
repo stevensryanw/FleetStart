@@ -3,6 +3,7 @@
 
 ## Objectives
  - Create a programable and open sourced ESP LoRa program
+    - Begin with singular and rolling starts for sequences of 10:00, 5:00, and 3:00
     - 
 
 ## Components
@@ -15,3 +16,5 @@
  ### Power Conversions
  - 24v-12v DeWalt stepdown (https://www.amazon.com/dp/B0CQJDGQDB?ref=ppx_yo2ov_dt_b_product_details&th=1)
  - 12v-5v stepdown (https://www.amazon.com/dp/B09DGDQ48H?ref=ppx_yo2ov_dt_b_product_details&th=1)
+
+ 
